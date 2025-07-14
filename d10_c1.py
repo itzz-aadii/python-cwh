@@ -1,4 +1,4 @@
-# day1-10
+#day1-10
 new = input("Input str: ")
 print("The input was: ", new)
 num1 = input("Enter 1st: ")

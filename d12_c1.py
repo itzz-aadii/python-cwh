@@ -1,4 +1,4 @@
-# day11-20
+#day11-20
 length = input("Enter the string: ")
 print("The length of given string is", len(length), "words")
 print(length[0:5])
