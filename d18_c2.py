@@ -1,6 +1,7 @@
 num = int(input("Enter number: "))
-i=1
-while (i <= num):
+i =1
+while True:
     print(i)
     i+=1
-print("Loop ends")
+    if i>num:
+        break
