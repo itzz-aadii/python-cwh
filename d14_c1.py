@@ -1,4 +1,3 @@
-#day11-20 
 age=int(input("Enter age: "))
 print("Your age: ",age)
 if(age<0):

@@ -1,4 +1,3 @@
-#day11-20 
 nm = "AdItYa!!??_Aadii_Nihal"
 print(len(nm))
 print(nm.upper())
