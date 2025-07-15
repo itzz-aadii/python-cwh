@@ -1,4 +1,3 @@
-# day1-10
 num1 = 100
 num2 = 4
 print("sum", num1 + num2)

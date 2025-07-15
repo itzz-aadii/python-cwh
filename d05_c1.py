@@ -1,4 +1,3 @@
-#day1-10
 # single line
 # print("New topic")
 
